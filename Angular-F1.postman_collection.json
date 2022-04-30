@@ -1,0 +1,356 @@
+{
+	"info": {
+		"_postman_id": "801a0eea-2355-407b-8fd3-f5e2a2ace39c",
+		"name": "Angular-F1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Drivers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/drivers",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"drivers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Drivers",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/drivers?query",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"drivers"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Drivers/id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/drivers/1",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"drivers",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Drivers/id",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/drivers/1",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"drivers",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Championships",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/championships",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"championships"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Championships",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/championships?",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"championships"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Championships/id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/championships/1",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"championships",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Championships/id",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/championships/1",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"championships",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Teams",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/teams",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"teams"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Teams",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/teams",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"teams"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Teams/id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/teams/1",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"teams",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Teams/id",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/teams/1",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"teams",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Teams/id",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/teams/2?name=\"Aie\"",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"teams",
+						"2"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "\"Aie\""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Drivers/id",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/drivers/2?name=\"Aie\"",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"drivers",
+						"2"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "\"Aie\""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Championships/id",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://base-f1.herokuapp.com/championships/1?name=\"Aie\"&years=2021&logo=\"test.png\"",
+					"protocol": "https",
+					"host": [
+						"base-f1",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"championships",
+						"1"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "\"Aie\""
+						},
+						{
+							"key": "years",
+							"value": "2021"
+						},
+						{
+							"key": "logo",
+							"value": "\"test.png\""
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
