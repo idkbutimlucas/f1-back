@@ -13,7 +13,7 @@ It was created for studie and it's passible to have somme bugs into app.
 
 # Links 👨🏻‍💻 : 
 
-Demo here ➡️ : `https://angular-f1-d0573.web.app/championships/1/teams`
+Demo here ➡️ : `https://angular-f1-d0573.web.app`
 
 # How to use ? 🤓 : 
 
