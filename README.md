@@ -15,6 +15,8 @@ It was created for studie and it's passible to have somme bugs into app.
 
 Demo here ➡️ : `https://angular-f1-d0573.web.app`
 
+Front ➡️ : `https://github.com/idkbutimlucas/f1-front`
+
 # How to use ? 🤓 : 
 
 Run : `ng serve` and check your favorite browsers on `http://localhost:4200/`
