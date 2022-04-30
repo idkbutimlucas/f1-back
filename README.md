@@ -1,6 +1,6 @@
 # Front F1 championat 🏁
 
-# Abaout 👨🏼‍🏫 :
+# About 👨🏼‍🏫 :
 
 This project was an Championship creator. It was composed of tow diferent project. 
     
