@@ -33,7 +33,7 @@
         "team_color":"#0600ef",
         "startyear":1997,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Red-Bull-Racing/_jcr_content/logo.img.jpg/1610719164360.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing.png.transform/6col/image.png",
         "teampoint":113,
         "teamchampionships":4,
         "championshipid":1
@@ -48,7 +48,7 @@
         "team_color":"#FF9800",
         "startyear":1966,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/McLaren/_jcr_content/logo.img.jpg/1515152760829.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/teamcar-mclaren.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/teamcar-mclaren.png.transform/6col/image.png",
         "teampoint":46,
         "teamchampionships":8,
         "championshipid":1
@@ -63,7 +63,7 @@
         "team_color":"#dc0000",
         "startyear":1950,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Ferrari/_jcr_content/logo.img.jpg/1521797474166.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/ferrari.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/ferrari.png.transform/6col/image.png",
         "teampoint":106,
         "teamchampionships":16,
         "championshipid":1
@@ -78,7 +78,7 @@
         "team_color":"#2b4562",
         "startyear":1985,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/AlphaTauri/_jcr_content/logo.img.jpg/1582650557134.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/alphatauri.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/alphatauri.png.transform/6col/image.png",
         "teampoint":16,
         "teamchampionships":0,
         "championshipid":1
@@ -93,7 +93,7 @@
         "team_color":"#006f62",
         "startyear":2018,
         "logo":"https://th.bing.com/th/id/Ra083ba7e2fd23f0f64a3551e280aabce?rik=T9p5x99tH5dfpA&riu=http%3a%2f%2fwww.carlogos.org%2flogo%2fAston-Martin-logo-2003-6000x3000.png&ehk=YFi8Bu7i2WI7R%2bYQd3gmxG%2fHh6kzHzpqM1z8KVzLVmw%3d&risl=&pid=ImgRaw",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/aston-martin.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/aston-martin.png.transform/6col/image.png",
         "teampoint":5,
         "teamchampionships":0,
         "championshipid":1
@@ -108,7 +108,7 @@
         "team_color":"#900000",
         "startyear":1993,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Alfa-Romeo-Racing/_jcr_content/logo.img.jpg/1582650603836.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/alfa-romeo.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/alfa-romeo.png.transform/6col/image.png",
         "teampoint":25,
         "teamchampionships":0,
         "championshipid":1
@@ -123,7 +123,7 @@
         "team_color":"#0090ff",
         "startyear":1986,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Alpine/_jcr_content/logo.img.jpg/1611246834255.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/alpine.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/alpine.png.transform/6col/image.png",
         "teampoint":22,
         "teamchampionships":2,
         "championshipid":1
@@ -138,7 +138,7 @@
         "team_color":"#005aff",
         "startyear":1978,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Williams/_jcr_content/logo.img.jpg/1590743731407.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/williams.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/williams.png.transform/6col/image.png",
         "teampoint":1,
         "teamchampionships":9,
         "championshipid":1
@@ -153,7 +153,7 @@
         "team_color":"#000000",
         "startyear":2016,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Haas-F1-Team/_jcr_content/logo.img.jpg/1615481143675.jpg",
-        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/haas-f1-team.png.transform/4col/image.png",
+        "car":"https://www.formula1.com/content/dam/fom-website/teams/2022/haas-f1-team.png.transform/6col/image.png",
         "teampoint":15,
         "teamchampionships":0,
         "championshipid":1
